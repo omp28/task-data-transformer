@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+*.log
+coverage/
+uploads/
+*.pdf
+*.docx
+*.csv
+!sample_data/**/*.csv
+!sample_data/**/*.pdf

@@ -1,0 +1,4 @@
+name,email,phone,current_company,title,location,linkedin,skills
+John Smith,john.smith@example.com,+14155551234,Tech Corp,Senior Software Engineer,San Francisco,linkedin.com/in/johnsmith,"JavaScript,React,Node.js,AWS"
+Sarah Johnson,sarah.j@example.com,+14155555678,Innovation Labs,Full Stack Developer,New York,linkedin.com/in/sarahjohnson,"Python,Django,PostgreSQL,Docker"
+Michael Chen,m.chen@example.com,+14155559012,Cloud Systems,DevOps Engineer,Seattle,linkedin.com/in/michaelchen,"Kubernetes,Terraform,CI/CD,Azure"
